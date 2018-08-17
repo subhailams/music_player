@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bachelors degree in Computer Science and Engineering"
+        android:textSize="14sp"
+        android:textColor="#222222"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="R.M.K Engineering College"
+        android:textSize="10sp"
+        android:textColor="#222222"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Higher Secondary"
+        android:textSize="14sp"
+        android:textColor="#222222"
+        android:textStyle="bold"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Velammal Matric Higher Secondary School"
+        android:textSize="10sp"
+        android:textColor="#222222"
+        />
+
+</LinearLayout>
