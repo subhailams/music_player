@@ -1,2 +1,2 @@
-# music_player
-An android music player application 
+# my_profile
+An android my profile application 
