@@ -22,9 +22,10 @@
             android:layout_gravity="center"
             android:textSize="24sp"
             android:textColor="#222222"
-            android:textStyle="bold"
+            android:textStyle="italic"
             android:id="@+id/nameText"
             android:layout_toRightOf="@+id/profilePhoto"
+
             />
 
         <TextView
@@ -60,13 +61,15 @@
         android:layout_height="wrap_content"
         android:text="Education"
         android:textColor="#FFFFFF"
+        android:id="@+id/education"
         />
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Work Experience"
-        android:textColor="#FFFFFF"
-        />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Work Experience"
+            android:textColor="#FFFFFF"
+            android:id="@+id/workExperience"
+            />
    </LinearLayout>
 
 
